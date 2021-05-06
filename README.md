@@ -20,7 +20,7 @@ Hi, I'm [Brendan Kam](https://bren-kam.github.io/), a passionate Full Stack Java
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/bren-kam/bren-kam/blob/main/code.gif?raw=true" width="300px" height="auto" />
+  <img align="right" alt="GIF" src="https://github.com/bren-kam/bren-kam/blob/main/code.gif?raw=true" width="200px" height="auto" />
 
 **Languages and Tools:**  
 
